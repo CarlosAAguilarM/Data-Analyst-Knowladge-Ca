@@ -5,6 +5,12 @@ This repository presents my practical case studies and findings from an AWS-focu
 
 ---
 
+## 📚 Table of Contents
+
+- [📦 Part 1: Core AWS Concepts](#-part-1-core-aws-concepts)
+- [🔐 Part 2: AWS Services and Security](#-part-2-aws-services-and-security)
+
+
 ## 📦 Part 1: Core AWS Concepts
 
 ### Module 1: AWS Deployment and Service Models
